@@ -2,7 +2,7 @@
 
 ## Description
 This project was created for academic purposes as part of the IT Academy Java & Spring specialization.
-The goal is to test the generic parameters and the varargs in methods.
+The goal is to test the annotations.
 
 The project is structured in three levels of increasing complexity.
 
