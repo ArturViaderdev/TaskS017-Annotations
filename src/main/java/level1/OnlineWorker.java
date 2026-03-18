@@ -1,7 +1,7 @@
 package level1;
 
 public class OnlineWorker extends Worker{
-    private static final double internetPrice = 10;
+    public static final double internetPrice = 10;
 
     public OnlineWorker(String name, String surname, double priceHour) {
         super(name, surname, priceHour);
